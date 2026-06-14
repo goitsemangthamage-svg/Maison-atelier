@@ -1,4 +1,4 @@
-"use client";
+client";
 import { motion } from "framer-motion";
 
 const content = [
@@ -55,8 +55,8 @@ export default function Maison() {
       ))}
 
       <footer style={{ padding: '4rem 10%', opacity: 0.2 }}>
-        <p className="mono">Tailored Maison — Est. 2026</p>
-      </footer>
+        <p className="mono">Tailored
+          2026</p></footer>
     </main>
   );
-}
+            }
